@@ -7,8 +7,7 @@ Interests:
 
 Tecnichal Background:
 
-I have coding experience in Java mostly, along with some experience
-Visual Studio. I am currently learning how to write Python. 
+I have coding experience in Java mostly, and I am currently learning how to write Python. 
 
 
 
